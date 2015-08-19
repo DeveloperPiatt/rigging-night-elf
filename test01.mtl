@@ -1,0 +1,108 @@
+#
+# mtl file for test01.obj obj file
+#
+
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_004
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_006
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_008
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_009
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_011
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_013
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_014
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_015
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_017
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Body.png
+newmtl Character_Bloodelf_male_bloodelfmale_hd.m2_Geoset_001_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Hair00_10_HD.png
+newmtl item_objectcomponents_head_helm_leather_draenorhonors2_c_01_bem.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Helm_Leather_DraenorHonorS2_C_01_Red.png
+newmtl item_objectcomponents_weapon_axe_2h_gorehowl_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Axe_2H_Gorehowl_C_01.png
+newmtl item_objectcomponents_weapon_axe_2h_gorehowl_d_01.m2_Geoset_001
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd test01_Axe_2H_Gorehowl_C_01.png
